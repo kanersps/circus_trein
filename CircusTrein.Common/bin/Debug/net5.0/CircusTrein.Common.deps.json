@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CircusTrein.Common/1.0.0": {
+        "runtime": {
+          "CircusTrein.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircusTrein.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

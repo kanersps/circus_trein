@@ -1,0 +1,17 @@
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Factory.deps.json
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Factory.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\ref\CircusTrein.Factory.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Factory.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Data.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Data.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\bin\Debug\net5.0\CircusTrein.Common.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.csprojAssemblyReference.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.AssemblyInfoInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.AssemblyInfo.cs
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.csproj.CopyComplete
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\ref\CircusTrein.Factory.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Factory\obj\Debug\net5.0\CircusTrein.Factory.pdb

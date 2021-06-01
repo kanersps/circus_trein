@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CircusTrein.Factory/1.0.0": {
+        "dependencies": {
+          "CircusTrein.Data": "1.0.0"
+        },
+        "runtime": {
+          "CircusTrein.Factory.dll": {}
+        }
+      },
+      "CircusTrein.Common/1.0.0": {
+        "runtime": {
+          "CircusTrein.Common.dll": {}
+        }
+      },
+      "CircusTrein.Data/1.0.0": {
+        "dependencies": {
+          "CircusTrein.Common": "1.0.0"
+        },
+        "runtime": {
+          "CircusTrein.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircusTrein.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircusTrein.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircusTrein.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

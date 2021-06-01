@@ -1,0 +1,15 @@
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\CircusTrein.Data.deps.json
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\CircusTrein.Data.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\ref\CircusTrein.Data.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\CircusTrein.Data.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\bin\Debug\net5.0\CircusTrein.Common.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.csprojAssemblyReference.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.AssemblyInfoInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.AssemblyInfo.cs
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.csproj.CopyComplete
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\ref\CircusTrein.Data.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Data\obj\Debug\net5.0\CircusTrein.Data.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\bin\Debug\net5.0\CircusTrein.Common.deps.json
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\bin\Debug\net5.0\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\bin\Debug\net5.0\ref\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\bin\Debug\net5.0\CircusTrein.Common.pdb
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.csprojAssemblyReference.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.AssemblyInfoInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.AssemblyInfo.cs
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\ref\CircusTrein.Common.dll
+C:\Users\Kane\OneDrive - Office 365 Fontys\Software\Semester 2\CircusTrein\CircusTrein.Common\obj\Debug\net5.0\CircusTrein.Common.pdb

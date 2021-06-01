@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CircusTrein.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CircusTrein.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CircusTrein.Common.dll": {}
+        }
+      },
+      "CircusTrein.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CircusTrein.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CircusTrein.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CircusTrein.Data.dll": {}
+        }
+      },
+      "CircusTrein.Factory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CircusTrein.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CircusTrein.Factory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CircusTrein.Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircusTrein.Common/1.0.0": {
+      "type": "project",
+      "path": "../CircusTrein.Common/CircusTrein.Common.csproj",
+      "msbuildProject": "../CircusTrein.Common/CircusTrein.Common.csproj"
+    },
+    "CircusTrein.Data/1.0.0": {
+      "type": "project",
+      "path": "../CircusTrein.Data/CircusTrein.Data.csproj",
+      "msbuildProject": "../CircusTrein.Data/CircusTrein.Data.csproj"
+    },
+    "CircusTrein.Factory/1.0.0": {
+      "type": "project",
+      "path": "../CircusTrein.Factory/CircusTrein.Factory.csproj",
+      "msbuildProject": "../CircusTrein.Factory/CircusTrein.Factory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CircusTrein.Common >= 1.0.0",
+      "CircusTrein.Factory >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kane\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Logic\\CircusTrein.Logic.csproj",
+      "projectName": "CircusTrein.Logic",
+      "projectPath": "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Logic\\CircusTrein.Logic.csproj",
+      "packagesPath": "C:\\Users\\Kane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Logic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Common\\CircusTrein.Common.csproj": {
+              "projectPath": "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Common\\CircusTrein.Common.csproj"
+            },
+            "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Factory\\CircusTrein.Factory.csproj": {
+              "projectPath": "C:\\Users\\Kane\\OneDrive - Office 365 Fontys\\Software\\Semester 2\\CircusTrein\\CircusTrein.Factory\\CircusTrein.Factory.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
